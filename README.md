@@ -5,8 +5,8 @@
     <p>World Citizen, Sports Lover, Technology Enthusiast</p>
     <a href="https://www.lewagon.com" target="_blank">Le Wagon Coding Academy Graduate</a>
     <h2>Follow me:</h2>
-    <a href="https://www.instagram.com/carlostag18/" taget="_blank"><i class="fa-brands fa-instagram"></i></a>
-    <a href="https://twitter.com/CTAGUIRRE98" taget="_blank"><i class="fa-brands fa-twitter"></i></a>
-    <a href="https://www.linkedin.com/in/carlos-aguirre-04a27a15a/" taget="_blank"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/carlostag18/" taget="_blank">Instagram</a>
+    <a href="https://twitter.com/CTAGUIRRE98" taget="_blank">Twitter</i></a>
+    <a href="https://www.linkedin.com/in/carlos-aguirre-04a27a15a/" taget="_blank">Linkedin</a>
   </body>
 </html>
